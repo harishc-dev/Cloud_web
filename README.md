@@ -2,10 +2,10 @@
 
 # ☁️ HariCloud - Neon Drive
 
-![GitHub stars](https://img.shields.io/github/stars/harishc-dev/Storage_frontend_advanced?style=social)
-![GitHub forks](https://img.shields.io/github/forks/harishc-dev/Storage_frontend_advanced?style=social)
-![GitHub issues](https://img.shields.io/github/issues/harishc-dev/Storage_frontend_advanced)
-![GitHub license](https://img.shields.io/github/license/harishc-dev/Storage_frontend_advanced)
+![GitHub stars](https://img.shields.io/github/stars/harishc-dev/Cloud_web?style=social)
+![GitHub forks](https://img.shields.io/github/forks/harishc-dev/Cloud_web?style=social)
+![GitHub issues](https://img.shields.io/github/issues/harishc-dev/Cloud_web)
+![GitHub license](https://img.shields.io/github/license/harishc-dev/Cloud_web)
 
 ### 🌐 A Futuristic Cloud Storage Platform with Stunning Neon-Themed UI
 
@@ -25,7 +25,8 @@
 
 <div align="center">
   
-![HariCloud Preview](https://via.placeholder.com/900x500/0F172A/00D9FF?text=HariCloud+-+Neon+Drive+Interface)
+<img width="1339" height="638" alt="image" src="https://github.com/user-attachments/assets/1cd1ee67-2344-450b-952f-ecca5715b37b" />
+
 
 *Experience the future of cloud storage with our cyberpunk-inspired interface*
 
@@ -228,3 +229,4 @@ If you like this project, please consider giving it a ⭐ on GitHub!
 *Not all clouds rain — some protect.*
 
 </div>
+
