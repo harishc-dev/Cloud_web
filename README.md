@@ -2,10 +2,10 @@
 
 # ☁️ HariCloud - Neon Drive
 
-![GitHub stars](https://img.shields.io/github/stars/harishc-dev/Cloud_web?style=social)
-![GitHub forks](https://img.shields.io/github/forks/harishc-dev/Cloud_web?style=social)
-![GitHub issues](https://img.shields.io/github/issues/harishc-dev/Cloud_web)
-![GitHub license](https://img.shields.io/github/license/harishc-dev/Cloud_web)
+![GitHub stars](https://img.shields.io/github/stars/harishc-dev/Cloud-web?style=social)
+![GitHub forks](https://img.shields.io/github/forks/harishc-dev/Cloud-web?style=social)
+![GitHub issues](https://img.shields.io/github/issues/harishc-dev/Cloud-web)
+![GitHub license](https://img.shields.io/github/license/harishc-dev/Cloud-web)
 
 ### 🌐 A Futuristic Cloud Storage Platform with Stunning Neon-Themed UI
 
@@ -227,5 +227,6 @@ If you like this project, please consider giving it a ⭐ on GitHub!
 *Not all clouds rain — some protect.*
 
 </div>
+
 
 
